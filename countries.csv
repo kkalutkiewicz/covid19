@@ -1,0 +1,34 @@
+country,full_name,population,population_per_kmsq,region
+jp,japan,126150000,334,asia
+ch,switzerland,8570146,207,europe
+tr,turkey,83154997,105,middle east
+uk,united kingdom,67886004,270,europe
+fr,france,64834000,116,europe
+it,italy,60317116,201,europe
+us,united states,328239523,33.6,north america
+de,germany,83149300,232,europe
+sk,south korea,51709098,507,asia
+ir,iran,83183741,48,middle east
+es,spain,47007367,92,europe
+ny,new york,19453561,159,north america
+be,belgium,11515793,376,europe
+nl,netherlands,17424978,421,europe
+ca,canada,37894799,3.92,north america
+se,sweden,10333456,23,europe
+by,belarus,9413446,45.8,europe
+sg,singapore,5638700,7804,asia
+ma,massachussets,6939373,324,north america
+nh,new hampshire,1359711,56.8,north america
+ga,georgia,10617423,65.4,north america
+cn,china,1427647786,145,asia
+ru,russia,146745098,8.4,europe
+br,brazil,210147125,25,south america
+pt,portugal,10276617,114.5,europe
+in,india,1352642280,405.8,asia
+pl,poland,38386000,123,europe
+ie,ireland,6572728,77.8,europe
+at,austria,8902600,106,europe
+il,israel,9190800,416,middle east
+ro,romania,19401658,84.4,europe
+hk,hong kong,7482500,6777,asia
+tw,taiwan,23780452,650,asia
